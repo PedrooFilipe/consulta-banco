@@ -1,0 +1,5 @@
+C:\Users\Filipe\source\repos\consulta-banco\consulta-banco\obj\Debug\netcoreapp3.1\consulta-banco.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\consulta-banco\consulta-banco\obj\Debug\netcoreapp3.1\consulta-banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\source\repos\consulta-banco\consulta-banco\obj\Debug\netcoreapp3.1\consulta-banco.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\consulta-banco\consulta-banco\obj\Debug\netcoreapp3.1\consulta-banco.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\consulta-banco\consulta-banco\obj\Debug\netcoreapp3.1\consulta-banco.csproj.CoreCompileInputs.cache
